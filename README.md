@@ -1,7 +1,7 @@
 # readme
 
 ## info
-- pang / yuilovestomato
+- pang
 - email : 129kjy@gmail.com
 - Major
   - Semiconductor
